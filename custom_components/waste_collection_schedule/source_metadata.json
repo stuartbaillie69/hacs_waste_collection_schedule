@@ -6610,6 +6610,13 @@
     },
     "urls": {}
   },
+  "edinburgh_gov_uk": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/edinburgh_gov_uk.md",
+    "howto": {
+      "en": "Enter the street name exactly as listed by the City of Edinburgh Council bin collection service."
+    },
+    "urls": {}
+  },
   "lincoln_gov_uk": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/lincoln_gov_uk.md",
     "howto": {},

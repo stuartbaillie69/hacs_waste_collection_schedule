@@ -36907,6 +36907,12 @@
       "id": "doncaster_gov_uk"
     },
     {
+      "title": "City of Edinburgh Council",
+      "module": "edinburgh_gov_uk",
+      "default_params": {},
+      "id": "edinburgh_gov_uk"
+    },
+    {
       "title": "City Of Lincoln Council",
       "module": "lincoln_gov_uk",
       "default_params": {},
